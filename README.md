@@ -5,7 +5,7 @@ A lightweight CLI tool to convert CSV files into GitHub-flavored Markdown tables
 ## Install
 
 ```bash
-git clone https://github.com/yourusername/csv2md.git
+git clone https://github.com/stjagu/csv2md.git
 cd csv2md
 pip install .
 
